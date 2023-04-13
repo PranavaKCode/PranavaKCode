@@ -1,4 +1,4 @@
-# 🏄‍♂️ PranavaKCode
+# 👨‍💻 PranavaKCode
 
 **`Web App Developer, Student interested in AI and ML`**
 
