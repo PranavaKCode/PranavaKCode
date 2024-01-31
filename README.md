@@ -2,7 +2,7 @@
 
 **`Web App Developer, Student interested in AI and ML`**
 
-Hey there, I'm Pranava, an 8th-grade student with a passion for computer science and machine learning. I'm always looking for ways to use technology to make my life easier, whether it's by coding web apps or automating tasks with scripts.
+Hey there, I'm Pranava, an 9th-grade student with a passion for computer science and machine learning. I'm always looking for ways to use technology to make my life easier, whether it's by coding web apps or automating tasks with scripts.
 
    <p align="left">
       <a href="https://github.com/PranavaKCode?tab=followers">
