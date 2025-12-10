@@ -29,6 +29,17 @@ Hey there, I'm Pranava, an independent researcher with a passion for computer sc
 ###  Latest Projects
 PPSC Tryouts
 
+### What I'm reading / What I've read
+- Competitive Programmer’s Handbook by Antti Laaksonen 
+- Competitive Programming 4 Book 1 by Steven, Felix, and Suhendry
+- Competitive Programming 4 Book 2 by Steven, Felix, and Suhendry
+- Introduction to Algorithms 4th Edition by Cormen, Leiserson, Rivest, and Stein
+- Physics (5th edition) by Halliday, Resnick, and Krane
+
+
+#
+
+
 #
 
 ### 📊 Stats
