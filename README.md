@@ -27,6 +27,7 @@ Hey there, I'm Pranava, an independent researcher with a passion for computer sc
 #
 
 ###  Latest Projects
+https://github.com/PranavaKCode/AquaSentinel_Final_Draft
 PPSC Tryouts
 
 ### What I'm reading / What I've read
