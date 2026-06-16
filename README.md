@@ -27,8 +27,7 @@ Hey there, I'm Pranava, an independent researcher with a passion for computer sc
 #
 
 ###  Latest Projects
-https://github.com/PranavaKCode/AquaSentinel_Final_Draft
-PPSC Tryouts
+[coming soon!]
 
 ### What I'm reading / What I've read
 - Competitive Programmer’s Handbook by Antti Laaksonen 
