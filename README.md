@@ -42,9 +42,6 @@ Hey there, I'm Pranava, an independent researcher with a passion for computer sc
 
 #
 
-### 📊 Stats
-
-![Pranava's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavaKCode&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=PranavaKCode&theme=gruvbox&border_radius=4.5) -->
 
