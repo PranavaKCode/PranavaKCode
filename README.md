@@ -1,6 +1,4 @@
-# 👨‍💻 PranavaKCode
-
-**`Web App Developer, Student interested in AI and ML`**
+#  PranavaKCode
 
 Hey there, I'm Pranava, an independent researcher with a passion for computer science and machine learning. I'm always looking for ways to use technology to make my life easier, whether it's by coding web apps or automating tasks with scripts.
 
